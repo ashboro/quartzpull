@@ -1,0 +1,5 @@
+views:
+  - type: cards
+    name: Table
+  - type: cards
+    name: View
